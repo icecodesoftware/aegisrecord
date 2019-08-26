@@ -1,0 +1,32 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "An example of how to use React and TypeScript with Parcel",
+  "scripts": {
+    "dev": "parcel src/blueprint.html",
+    "dev2": "parcel src/semantic.html",
+    "material": "parcel src/material.html"
+  },
+  "keywords": [],
+  "author": "ME",
+  "license": "MIT",
+  "devDependencies": {
+    "@blueprintjs/core": "^3.18.0",
+    "@material-ui/core": "^4.3.3",
+    "@material-ui/icons": "^4.2.1",
+    "@types/react-router": "^5.0.3",
+    "@types/react-router-dom": "^4.3.4",
+    "@types/semantic-ui": "^2.2.7",
+    "normalize": "^0.3.1",
+    "plottable": "^3.8.6",
+    "react-flexview": "^4.0.3",
+    "react-router": "^5.0.1",
+    "react-router-dom": "^5.0.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.0"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
